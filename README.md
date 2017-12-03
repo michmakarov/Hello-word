@@ -4,4 +4,10 @@ Here is the cont of the second edit of. It's all.
 It is added at 06.06.17 under master (?)
 ---
 It has been added on local machine under Master branch
-Now I should attempt to write it into the repository
+Now I should attempt to write it into the repository:
+git add . - it have been passed but I do not sure that it needs if only an existing file was changed
+git commit -m "the first acknowledged commit"
+
+qqq
+
+
