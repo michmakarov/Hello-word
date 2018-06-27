@@ -10,4 +10,8 @@ git commit -m "the first acknowledged commit"
 
 qqq
 
+180627
+It was cloned by git: under windows (44)
+Now we will attempt to push it with a commit message "180626 10:10"
+
 
