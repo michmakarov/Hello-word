@@ -12,6 +12,13 @@ qqq
 
 180627
 It was cloned by git: under windows (44)
-Now we will attempt to push it with a commit message "180626 10:10"
+Now we will attempt to push it with a commit message 
+
+180701 
+This day I discover the "net/http/pprof" package. What do I think about it? It is very necessery to learn memory management!
+Let's do 
+
+The last commit I do not see on 44 and likely only on README.md
+Let's this is "Во дела 180701"
 
 

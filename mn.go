@@ -21,7 +21,7 @@ func rootHandler(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 
-
+//"Во дела 180701" for mn.go
 
 
 	http.HandleFunc("/", rootHandler)
