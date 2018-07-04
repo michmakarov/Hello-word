@@ -21,4 +21,8 @@ Let's do
 The last commit I do not see on 44 and likely only on README.md
 Let's this is "Во дела 180701"
 
+The Новый текстовый документ.txt was added with two purposes: (1) to save
+git commands that appears helpful for me and (2) to see what will be
+when the file is renamed
+
 
