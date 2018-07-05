@@ -1,1 +1,17 @@
 git log --graph --full-history --all --color --pretty=format:"%x1b[31m%h%x09%x1b[32m%d%x1b[0m%x20%s"
+
+180705
+What is tortured me last time in my scooping the git?
+The question - how to pull on the stage (in my working directory) content of a remote branch?
+Hooray! I seemly have found it.
+
+C:\Users\MichMakarov\Progects\Hello-word>git checkout -b What origin/Wha
+Switched to a new branch 'What'
+Branch What set up to track remote branch What-to-do-next from origin.
+
+C:\Users\MichMakarov\Progects\Hello-word>git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+
+-------------------- let's commit and push it: -m "How to stage branch?"
+but next question - how to stage an arbitrary commit?
